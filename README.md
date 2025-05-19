@@ -1,4 +1,4 @@
-# Excursion Project 🌄
+![Screenshot 2025-05-19 134819](https://github.com/user-attachments/assets/84749d42-5ebd-4866-b843-bb2070ca51d8)# Excursion Project 🌄
 
 Welcome to the **Excursion** landing page project!  
 This is a responsive, visually engaging webpage designed to advertise a fictional mobile app that helps users record and share their travel experiences.
@@ -19,4 +19,7 @@ Check out the live deployed project here:
 👉 [https://shreyas29032001.github.io/Excursion-Project](https://shreyas29032001.github.io/Excursion-Project)
 
 ## 📁 Project Structure
+
+
+
 
